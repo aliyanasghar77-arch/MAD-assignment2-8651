@@ -1,0 +1,20 @@
+frontend/
+├── package.json
+├── App.js
+└── src/
+    ├── services/
+    │   └── api.js
+    ├── context/
+    │   ├── AuthContext.js
+    │   └── CartContext.js
+    ├── navigation/
+    │   └── AppNavigator.js
+    └── screens/
+        ├── LoginScreen.js
+        ├── RegisterScreen.js
+        ├── HomeScreen.js
+        ├── ProductDetailScreen.js
+        ├── CartScreen.js
+        ├── CheckoutScreen.js
+        ├── OrderConfirmationScreen.js
+        └── ProfileScreen.js
